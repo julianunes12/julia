@@ -5,3 +5,4 @@
 # e eu estou estudando sobre computação
 # estudo no colegio newton guimarães
 # estou no primeiro ano
+# julia.nunes.ribeiro@escola.pr.gov.br
